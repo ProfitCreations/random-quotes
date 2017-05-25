@@ -1,0 +1,30 @@
+html {
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  min-heigth: 100% !important;
+  transition: .3s;
+}
+html body {
+  min-heigth: 100% !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+}
+html .qt {
+  margin-top: 5%;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.75);
+}
+html .qt h5 {
+  text-shadow: rgba(255, 255, 255, 0.7) 0px 4px 5px;
+}
+html .qt .show-quote {
+  margin: auto !important;
+  display: block !important;
+  padding: 30px 50px;
+}
+html .qt .show-quote h3 {
+  text-shadow: rgba(255, 255, 255, 0.7) 0px 4px 5px;
+}
+html .qt .show-quote h3 p {
+  font-size: 20px;
+}
