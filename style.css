@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+  min-height: 100%; }
+  html body {
+    vertical-align: middle;
+    height: 100%;
+    min-height: 100%;
+    display: block;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important; }
+    html body #quote {
+      font-size: calc(3vw + 3vh /2);
+      margin-bottom: 20px; }
+    html body .pd a {
+      margin-bottom: 5px;
+      color: #fff !important;
+      text-transform: uppercase;
+      box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5); }
+    html body h3 {
+      font-size: calc(1.5vw + 1.5vh);
+      background-color: rgba(255, 255, 255, 0.8);
+      margin-bottom: 15px; }
+    html body .big {
+      height: 100%;
+      min-height: 100%; }
+    html body .qt {
+      border-radius: 10px;
+      padding: 15px;
+      background-color: rgba(255, 255, 255, 0.8);
+      box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5); }
+
+/*# sourceMappingURL=style.css.map */
